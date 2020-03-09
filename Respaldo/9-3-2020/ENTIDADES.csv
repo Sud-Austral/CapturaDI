@@ -1,0 +1,231 @@
+,id,ministerio,entidad,sigla,condicion
+0,1.0,Ministerio de Interior,Subsecretaría de Interior,,Organismo Centralizado
+1,2.0,Ministerio de Interior,Subsecretaría de Desarrollo Regional y Administrativo,,Organismo Centralizado
+2,3.0,Ministerio de Interior,Oficina Nacional de Emergencia,ONEMI,Organismo Centralizado
+3,4.0,Ministerio de Interior,Servicio Electoral,SERVEL,Organismo Autónomo
+4,5.0,Ministerio de Interior,Gobiernos Regionales,GORE,Organismo Descentralizado
+5,6.0,Ministerio de Interior,Subsecretaría de Prevención del Delito,,Organismo Centralizado
+6,7.0,Ministerio de Interior,Servicio de Gobierno Interior de la República,SGI,Organismo Centralizado
+7,8.0,Ministerio de Interior,Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol,SENDA,Organismo Descentralizado
+8,9.0,Ministerio de Interior,Municipalidades,,Organismo Constitucionalmente Autónomo
+9,10.0,Ministerio de Interior,Carabineros de Chile,,Organismo Centralizado
+10,11.0,Ministerio de Interior,Policía de Investigaciones de Chile,PDI,Organismo Centralizado
+11,12.0,Ministerio de Interior,Agencia Nacional de Inteligencia,ANI,Organismo Centralizado
+12,13.0,Ministerio de Interior,Intendentes,,Organismo Centralizado
+13,14.0,Ministerio de Interior,Gobernaciones,,Organismo Desconcentrado Territorialmente
+14,15.0,Ministerio de Interior,Dirección de Previsión de Carabineros de Chile,DIPRECA,Organismo Descentralizado
+15,16.0,Ministerio de Relaciones Exteriores,Subsecretaría de Relaciones Económicas Internacionales,,Organismo Centralizado
+16,17.0,Ministerio de Relaciones Exteriores,Dirección Nacional de Fronteras y Límites del Estado,DIFROL,Organismo Centralizado
+17,18.0,Ministerio de Relaciones Exteriores,Instituto Antártico Chileno,INACH,Organismo Centralizado
+18,19.0,Ministerio de Relaciones Exteriores,Subsecretaría de Relaciones Exteriores,,Organismo Centralizado
+19,20.0,Ministerio de Relaciones Exteriores,Dirección General de Promoción de Exportaciones,PROCHILE,Organismo Centralizado
+20,21.0,Ministerio de Relaciones Exteriores,Agencia Chilena de Cooperación Internacional para el Desarrollo,AGCID,Organismo Descentralizado
+21,22.0,Ministerio de Relaciones Exteriores,Academia Diplomática Andrés Bello,,
+22,23.0,Ministerio de Defensa Nacional,Subsecretaría para las Fuerzas Armadas,,Organismo Centralizado
+23,24.0,Ministerio de Defensa Nacional,Subsecretaría de Defensa,,Organismo Centralizado
+24,25.0,Ministerio de Defensa Nacional,Caja de Previsión de la Defensa Nacional,CAPREDENA,Organismo Descentralizado
+25,26.0,Ministerio de Defensa Nacional,Academia Nacional de Estudios Políticos y Estratégicos,,
+26,27.0,Ministerio de Defensa Nacional,Obispado Castrense de Chile,,
+27,28.0,Ministerio de Defensa Nacional,Ejército de Chile,,Organismo Centralizado
+28,29.0,Ministerio de Defensa Nacional,Armada de Chile,,Organismo Centralizado
+29,30.0,Ministerio de Defensa Nacional,Fuerza Aérea de Chile,,Organismo Centralizado
+30,31.0,Ministerio de Defensa Nacional,Estado Mayor Conjunto,,Organismo Centralizado
+31,32.0,Ministerio de Defensa Nacional,Fábricas y Maestranzas del Ejército,FAMAE,Empresa Pública Creada por Ley
+32,33.0,Ministerio de Defensa Nacional,Dirección General de Movilización Nacional,DGMN,Organismo Centralizado
+33,34.0,Ministerio de Defensa Nacional,Defensa Civil de Chile,,Organismo Descentralizado
+34,35.0,Ministerio de Defensa Nacional,Ministerio Público Militar,,
+35,36.0,Ministerio de Defensa Nacional,Instituto Geográfico Militar,IGM,Organismo Centralizado
+36,37.0,Ministerio de Defensa Nacional,Cuerpo de Veteranos de la Guerra del Pacífico,,
+37,38.0,Ministerio de Defensa Nacional,Astilleros y Maestranzas de la Armada,ASMAR,Empresa Pública Creada por Ley
+38,39.0,Ministerio de Defensa Nacional,Servicio Hidrográfico y Oceanográfico de la Armada de Chile,SHOA,Organismo Centralizado
+39,40.0,Ministerio de Defensa Nacional,Empresa Nacional Aeronáutica de Chile,ENAER,Empresa Pública Creada por Ley
+40,41.0,Ministerio de Defensa Nacional,Servicio Aerofotogramétrico del General Juan Soler Manfredini,SAF,Organismo Centralizado
+41,42.0,Ministerio de Defensa Nacional,Dirección General del Territorio Marítimo y Marina Mercante,DIRECTEMAR,Organismo Centralizado
+42,43.0,Ministerio de Defensa Nacional,Dirección General de Aeronáutica Civil,DGAC,Organismo Centralizado
+43,44.0,"Ministerio de Economía, Fomento y Turismo",Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+44,45.0,"Ministerio de Economía, Fomento y Turismo",Subsecretaría de Economía y Empresas de Menor Tamaño,,Organismo Centralizado
+45,46.0,"Ministerio de Economía, Fomento y Turismo",Subsecretaría de Turismo,,Organismo Centralizado
+46,47.0,"Ministerio de Economía, Fomento y Turismo",Superintendencia de Insolvencia y Reemprendimiento,SUPERIR,Organismo Descentralizado
+47,48.0,"Ministerio de Economía, Fomento y Turismo",Instituto Nacional de Desarrollo Sustentable de la Pesca Artesanal y de la Acuicultura de Pequeña Escala,INDESPA,Organismo Descentralizado
+48,49.0,"Ministerio de Economía, Fomento y Turismo",Subsecretaría de Pesca y Acuicultura,,Organismo Centralizado
+49,50.0,"Ministerio de Economía, Fomento y Turismo",Servicio Nacional del Consumidor,SERNAC,Organismo Descentralizado
+50,51.0,"Ministerio de Economía, Fomento y Turismo",Fiscalía Nacional Económica,FNE,Organismo Descentralizado
+51,52.0,"Ministerio de Economía, Fomento y Turismo",Instituto Nacional de Estadísticas,INE,Organismo Descentralizado
+52,53.0,"Ministerio de Economía, Fomento y Turismo",Servicio Nacional de Turismo,SERNATUR,Organismo Descentralizado
+53,54.0,"Ministerio de Economía, Fomento y Turismo",Agencia de Promoción de la Inversión Extranjera,,Organismo Descentralizado
+54,55.0,"Ministerio de Economía, Fomento y Turismo",Instituto Nacional de Propiedad Industrial,INAPI,Organismo Descentralizado
+55,56.0,"Ministerio de Economía, Fomento y Turismo",Corporación de Fomento de la Producción,CORFO,Organismo Descentralizado
+56,57.0,"Ministerio de Economía, Fomento y Turismo",Servicio Nacional de Pesca y Acuicultura,SERNAPESCA,Organismo Centralizado
+57,58.0,Ministerio Secretaría General de la Presidencia de la República,Subsecretaría,,Organismo Centralizado
+58,59.0,Ministerio Secretaría General de la Presidencia de la República,Defensoría de los Derechos de la Niñez,,Organismo Descentralizado
+59,60.0,Ministerio Secretaría General de la Presidencia de la República,Instituto Nacional de Derechos Humanos,INDH,Organismo Descentralizado
+60,61.0,Ministerio Secretaría General de la Presidencia de la República,Consejo para la Transparencia,CPLT,Organismo Descentralizado
+61,62.0,Ministerio De Hacienda,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+62,63.0,Ministerio De Hacienda,Dirección de Presupuestos,DIPRES,Organismo Centralizado
+63,64.0,Ministerio De Hacienda,Servicio de Impuestos Internos,SII,Organismo Descentralizado
+64,65.0,Ministerio De Hacienda,Servicio de Tesorerías,TGR,Organismo Centralizado
+65,66.0,Ministerio De Hacienda,Servicio Nacional de Aduanas,SNA,Organismo Descentralizado
+66,67.0,Ministerio De Hacienda,Unidad de Análisis Financiero,UAF,Organismo Descentralizado
+67,68.0,Ministerio De Hacienda,Superintendencia de Casinos de Juego,,Organismo Descentralizado
+68,69.0,Ministerio De Hacienda,Casa de Moneda de Chile,,
+69,70.0,Ministerio De Hacienda,Comisión para el Mercado Financiero,CMF,Organismo Descentralizado
+70,71.0,Ministerio De Hacienda,Subsecretaría,,Organismo Centralizado
+71,72.0,Ministerio De Hacienda,Dirección Nacional del Servicio Civil,,Organismo Descentralizado
+72,73.0,Ministerio De Hacienda,Dirección de Compras y Contratación Pública,ChileCOMPRA,Organismo Descentralizado
+73,74.0,Ministerio De Hacienda,Banco de Chile,,Empresa Pública Creada por Ley
+74,75.0,Ministerio De Hacienda,Consejo de Defensa del Estado,CDE,
+75,76.0,Ministerio De Educación,Agencia de Calidad de la Educación,,Organismo Descentralizado
+76,77.0,Ministerio De Educación,Junta Nacional de Auxilio Escolar y Becas,JUNAEB,Organismo Descentralizado
+77,78.0,Ministerio De Educación,Junta Nacional de Jardines Infantiles,JUNJI,Organismo Descentralizado
+78,79.0,Ministerio De Educación,Comisión Nacional de Investigación Científica y Tecnológica,CONICYT,Organismo Descentralizado
+79,80.0,Ministerio De Educación,Servicios Locales de Educación Pública,SLE,Organismo Descentralizado
+80,81.0,Ministerio De Educación,Consejo de Rectores de las Universidades Chilenas,,Organismo Descentralizado
+81,82.0,Ministerio De Educación,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+82,83.0,Ministerio De Educación,Subsecretaría de Educación,,Organismo Centralizado
+83,84.0,Ministerio De Educación,Subsecretaría de Educación Parvularia,,Organismo Centralizado
+84,85.0,Ministerio De Educación,Subsecretaría de Educación Superior,,Organismo Centralizado
+85,86.0,Ministerio De Educación,Consejo de Calificación Cinematográfica,,Organismo Centralizado
+86,87.0,Ministerio De Educación,Dirección de Educación Pública,,Organismo Centralizado
+87,88.0,Ministerio De Educación,Superintendencia de Educación Escolar,,Organismo Descentralizado
+88,89.0,Ministerio De Educación,Consejo Nacional de Educación,CNED,Organismo Descentralizado
+89,90.0,Ministerio De Educación,Comisión Nacional de Acreditación,CNA,Organismo Descentralizado
+90,91.0,Ministerio De Educación,Comisión Administradora del Sistema de Créditos para Estudios Superiores,,Organismo Descentralizado
+91,92.0,Ministerio De Educación,Superintendencia de Educación Superior,,Organismo Descentralizado
+92,93.0,Ministerio De Educación,Universidad de Chile,,Organismo Descentralizado
+93,94.0,Ministerio De Educación,Universidad de Santiago de Chile,,Organismo Descentralizado
+94,95.0,Ministerio De Educación,Universidad de Tarapacá,,Organismo Descentralizado
+95,96.0,Ministerio De Educación,Universidad de Antofagasta,,Organismo Descentralizado
+96,97.0,Ministerio De Educación,Universidad de Atacama,,Organismo Descentralizado
+97,98.0,Ministerio De Educación,Universidad de la Serena,,Organismo Descentralizado
+98,99.0,Ministerio De Educación,Universidad de Valparaíso,,Organismo Descentralizado
+99,100.0,Ministerio De Educación,Universidad de Talca,,Organismo Descentralizado
+100,101.0,Ministerio De Educación,Universidad del Bíobío,,Organismo Descentralizado
+101,102.0,Ministerio De Educación,Universidad de la Frontera,,Organismo Descentralizado
+102,103.0,Ministerio De Educación,Universidad de Aysén,,Organismo Descentralizado
+103,104.0,Ministerio De Educación,Universidad de O´Higgins,,Organismo Descentralizado
+104,105.0,Ministerio De Educación,Universidad de Magallanes,,Organismo Descentralizado
+105,106.0,Ministerio De Educación,Universidad Metropolitana de Ciencias de la Educación,,Organismo Descentralizado
+106,107.0,Ministerio De Educación,Universidad de Playa Ancha de Ciencias de la Educación,,Organismo Descentralizado
+107,108.0,Ministerio De Educación,Universidad Tecnológica Metropolitana,,Organismo Descentralizado
+108,109.0,Ministerio De Educación,Universidad Arturo Prat,,Organismo Descentralizado
+109,110.0,Ministerio De Educación,Universidad de los Lagos,,Organismo Descentralizado
+110,111.0,Ministerio De Educación,Centros de Formación Técnica Estatales,CFT,Organismo Descentralizado
+111,112.0,Ministerio De Desarrollo Social y Familia,Fondo de Solidaridad e Inversión Social,FOSIS,Organismo Descentralizado
+112,113.0,Ministerio De Desarrollo Social y Familia,Corporación Nacional de Desarrollo Indígena,CONADI,Organismo Descentralizado
+113,114.0,Ministerio De Desarrollo Social y Familia,Instituto Nacional de la Juventud,INJUV,Organismo Descentralizado
+114,115.0,Ministerio De Desarrollo Social y Familia,Servicio Nacional del Adulto Mayor,SENAMA,Organismo Descentralizado
+115,116.0,Ministerio De Desarrollo Social y Familia,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+116,117.0,Ministerio De Desarrollo Social y Familia,Subsecretaría de Evaluación Social,,Organismo Centralizado
+117,118.0,Ministerio De Desarrollo Social y Familia,Subsecretaría de la Niñez,,Organismo Centralizado
+118,119.0,Ministerio De Desarrollo Social y Familia,Servicio Nacional de la Discapacidad,SENADIS,Organismo Descentralizado
+119,120.0,Ministerio De Justicia,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+120,121.0,Ministerio De Justicia,Subsecretaría de Justicia,,Organismo Centralizado
+121,122.0,Ministerio De Justicia,Subsecretaría de Derechos Humanos,,Organismo Centralizado
+122,123.0,Ministerio De Justicia,Gendarmería de Chile,,Organismo Centralizado
+123,124.0,Ministerio De Justicia,Servicio de Registro Civil e Identificación,,Organismo Descentralizado
+124,125.0,Ministerio De Justicia,Servicio Nacional de Menores,SENAME,Organismo Centralizado
+125,126.0,Ministerio De Justicia,Servicio Médico Legal,SML,Organismo Centralizado
+126,127.0,Ministerio De Justicia,Fiscalía Nacional de Quiebras,,
+127,128.0,Ministerio De Justicia,Corporaciones de Asistencia Judicial,,Organismo Descentralizado
+128,129.0,Ministerio De Justicia,Defensoría Penal Pública,,Organismo Descentralizado
+129,130.0,Ministerio De Justicia,Sistema Nacional de Mediación Familiar,,
+130,131.0,Ministerio De Obras Públicas,Dirección General de Obras Públicas,DGOP,Organismo Centralizado
+131,132.0,Ministerio De Obras Públicas,Dirección de Aeropuertos,DAP,Organismo Centralizado
+132,133.0,Ministerio De Obras Públicas,Dirección de Arquitectura,DA ,Organismo Centralizado
+133,134.0,Ministerio De Obras Públicas,Dirección de Obras Portuarias,DOP,Organismo Centralizado
+134,135.0,Ministerio De Obras Públicas,Dirección de Obras Hidráulicas,DOH,Organismo Centralizado
+135,136.0,Ministerio De Obras Públicas,Dirección de Vialidad,DV,Organismo Centralizado
+136,137.0,Ministerio De Obras Públicas,Dirección de Contabilidad y Finanzas,DCyF,Organismo Centralizado
+137,138.0,Ministerio De Obras Públicas,Dirección de Planeamiento,DIRPLAN,Organismo Centralizado
+138,139.0,Ministerio De Obras Públicas,Fiscalía del Ministerio de Obras Públicas,,Organismo Centralizado
+139,140.0,Ministerio De Obras Públicas,Dirección General de Concesiones de Obras Públicas,DGCOP,Organismo Centralizado
+140,141.0,Ministerio De Obras Públicas,Dirección General de Aguas,DGA ,Organismo Centralizado
+141,142.0,Ministerio De Obras Públicas,Superintendencia de Servicios Sanitarios,,Organismo Descentralizado
+142,143.0,Ministerio De Obras Públicas,Instituto Nacional de Hidráulica,INH,Organismo Descentralizado
+143,144.0,Ministerio De Obras Públicas,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+144,145.0,Ministerio De Obras Públicas,Subsecretaría,,Organismo Centralizado
+145,146.0,Ministerio De Agricultura,Oficina de Estudios y Políticas Agrarias,ODEPA,Organismo Centralizado
+146,147.0,Ministerio De Agricultura,Instituto de Desarrollo Agropecuario,INDAP,Organismo Descentralizado
+147,148.0,Ministerio De Agricultura,Corporación Nacional Forestal,CONAF,Organismo Descentralizado
+148,149.0,Ministerio De Agricultura,Servicio Agrícola y Ganadero,SAG,Organismo Descentralizado
+149,150.0,Ministerio De Agricultura,Comisión Nacional de Riego,CNR,Organismo Descentralizado
+150,151.0,Ministerio De Agricultura,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+151,152.0,Ministerio De Agricultura,Subsecretaría,,Organismo Centralizado
+152,153.0,Ministerio De Agricultura,Instituto de Investigaciones Agropecuarias,INIA,
+153,154.0,Ministerio De Agricultura,Fundación para la Innovación Agraria,FIA,
+154,155.0,Ministerio De Agricultura,Instituto Forestal,INFOR,
+155,156.0,Ministerio De Agricultura,Centro de Información de Recursos Naturales,CIREN,
+156,157.0,Ministerio De Agricultura,Comité de Seguros del Agro,AGROSEGUROS,
+157,158.0,Ministerio De Agricultura,"Fundación de Comunicaciones, Capacitación y Cultura del Agro",FUCOA,
+158,159.0,Ministerio De Agricultura,Agencia Chilena para la Inocuidad y Calidad Alimentaria,ACHIPIA,
+159,160.0,Ministerio De Agricultura,Departamento Gestión Integral de Riesgos,DGIR,
+160,161.0,Ministerio Del Trabajo y Previsión Social,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+161,162.0,Ministerio Del Trabajo y Previsión Social,Dirección del Trabajo,,Organismo Descentralizado
+162,163.0,Ministerio Del Trabajo y Previsión Social,Servicio Nacional de Capacitación y Empleo,SENCE,Organismo Descentralizado
+163,164.0,Ministerio Del Trabajo y Previsión Social,Dirección General de Crédito Prendario,,Organismo Descentralizado
+164,165.0,Ministerio Del Trabajo y Previsión Social,Superintendencia de Seguridad Social,SUSESO,Organismo Descentralizado
+165,166.0,Ministerio Del Trabajo y Previsión Social,Superintendencia de Pensiones,SP,Organismo Descentralizado
+166,167.0,Ministerio Del Trabajo y Previsión Social,Instituto de Previsión Social,INP,Organismo Descentralizado
+167,168.0,Ministerio Del Trabajo y Previsión Social,Subsecretaría del Trabajo,,Organismo Centralizado
+168,169.0,Ministerio Del Trabajo y Previsión Social,Subsecretaría de Previsión Social,,Organismo Centralizado
+169,170.0,Ministerio Del Trabajo y Previsión Social,Comisión del Sistema Nacional de Certificación de Competencias Laborales,ChileValora,Organismo Descentralizado
+170,171.0,Ministerio Del Trabajo y Previsión Social,Instituto de Seguridad Laboral,ISL,Organismo Descentralizado
+171,172.0,Ministerio De Salud,Servicios de Salud,,Organismo Descentralizado
+172,173.0,Ministerio De Salud,Instituto de Salud Pública,ISP,Organismo Descentralizado
+173,174.0,Ministerio De Salud,Fondo Nacional de Salud,FONASA,Organismo Descentralizado
+174,175.0,Ministerio De Salud,Central de Abastecimiento del Sistema Nacional de Servicios de Salud,CENABAST,Organismo Descentralizado
+175,176.0,Ministerio De Salud,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+176,177.0,Ministerio De Salud,Subsecretaría de Salud Pública,,Organismo Centralizado
+177,178.0,Ministerio De Salud,Subsecretaría de Redes Asistenciales,,Organismo Centralizado
+178,179.0,Ministerio De Salud,Superintendencia de Salud,,Organismo Descentralizado
+179,180.0,Ministerio De Salud,Centros de Referencia ,,Organismo Descentralizado
+180,181.0,Ministerio De Minería,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+181,182.0,Ministerio De Minería,Comisión Chilena del Cobre,COCHILCO,Organismo Descentralizado
+182,183.0,Ministerio De Minería,Servicio Nacional de Geología y Minería,SERNAGEOMIN,Organismo Descentralizado
+183,184.0,Ministerio De Minería,Subsecretaría,,Organismo Centralizado
+184,185.0,Ministerio De Minería,Corporación Nacional del Cobre de Chile,CODELCO,Empresa Pública Creada por Ley
+185,186.0,Ministerio De Minería,Empresa Nacional de Minería,ENAMI,Empresa Pública Creada por Ley
+186,187.0,Ministerio De Vivienda y Urbanismo,Subsecretaría,,Organismo Centralizado
+187,188.0,Ministerio De Vivienda y Urbanismo,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+188,189.0,Ministerio De Vivienda y Urbanismo,Servicios Regionales de Vivienda y Urbanización,SEREMI,Organismo Descentralizado
+189,190.0,Ministerio De Vivienda y Urbanismo,Parque Metropolitano de Santiago,,Organismo Centralizado
+190,191.0,Ministerio De Vivienda y Urbanismo,Servicio Metropolitano de Vivienda y Urbanización,SEREMI,Organismo Descentralizado
+191,192.0,Ministerio De Transporte y Telecomunicaciones,Subsecretaría de Transportes,,Organismo Centralizado
+192,193.0,Ministerio De Transporte y Telecomunicaciones,Subsecretaría de Telecomunicaciones,,Organismo Centralizado
+193,194.0,Ministerio De Transporte y Telecomunicaciones,Junta Aeronáutica Civil,JAC,Organismo Centralizado
+194,195.0,Ministerio De Transporte y Telecomunicaciones,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+195,196.0,Ministerio De Transporte y Telecomunicaciones,Empresa de los Ferrocarriles del Estado,Grupo EFE,Empresa Pública Creada por Ley
+196,197.0,Ministerio De Transporte y Telecomunicaciones,Empresa de Correos de Chile,,Empresa Pública Creada por Ley
+197,198.0,Ministerio De Transporte y Telecomunicaciones,Empresas Portuarias,,Empresa Pública Creada por Ley
+198,199.0,Ministerio SecretarÍa General de Gobierno,Consejo Nacional de Televisión,CNTV,Organismo Constitucionalmente Autónomo
+199,200.0,Ministerio SecretarÍa General de Gobierno,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+200,201.0,Ministerio SecretarÍa General de Gobierno,Televisión Nacional de Chile,TVN,Empresa Pública Creada por Ley
+201,202.0,Ministerio SecretarÍa General de Gobierno,Subsecretaría,,Organismo Centralizado
+202,203.0,"Ministerio de las Culturas, las Artes y el Patrimonio","Dirección de Bibliotecas, Archivos y Museos",DIBAM,
+203,204.0,"Ministerio de las Culturas, las Artes y el Patrimonio",Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+204,205.0,"Ministerio de las Culturas, las Artes y el Patrimonio",Subsecretaría de las Culturas y las Artes,,Organismo Centralizado
+205,206.0,"Ministerio de las Culturas, las Artes y el Patrimonio",Subsecretaría del Patrimonio Cultural,,Organismo Centralizado
+206,207.0,"Ministerio de las Culturas, las Artes y el Patrimonio",Consejo de Monumentos Nacionales,CMN,Organismo Centralizado
+207,208.0,"Ministerio de las Culturas, las Artes y el Patrimonio",Servicio Nacional del Patrimonio Cultural,SNPC,Organismo Descentralizado
+208,209.0,"Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+209,210.0,"Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",Subsecretaría,,Organismo Centralizado
+210,211.0,"Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",Agencia Nacional de Investigación y Desarrollo,ANID,Organismo Descentralizado
+211,212.0,Ministerio de la Mujer y la Equidad de Género,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+212,213.0,Ministerio de la Mujer y la Equidad de Género,Subsecretaría,,Organismo Centralizado
+213,214.0,Ministerio de la Mujer y la Equidad de Género,Servicio Nacional de la Mujer y la Equidad de Género,SERNAMEG,Organismo Descentralizado
+214,215.0,Ministerio del Deporte,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+215,216.0,Ministerio del Deporte,Subsecretaría,,Organismo Centralizado
+216,217.0,Ministerio del Deporte,Instituto Nacional de Deportes,IND ,Organismo Descentralizado
+217,218.0,Ministerio del Medio Ambiente,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+218,219.0,Ministerio del Medio Ambiente,Subsecretaría,,Organismo Centralizado
+219,220.0,Ministerio del Medio Ambiente,Servicio de Evaluación Ambiental,,Organismo Descentralizado
+220,221.0,Ministerio del Medio Ambiente,Superintendencia del Medio Ambiente,,Organismo Descentralizado
+221,222.0,Ministerio de Energía,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+222,223.0,Ministerio de Energía,Subsecretaría,,Organismo Centralizado
+223,224.0,Ministerio de Energía,Superintendencia de Electricidad y Combustibles,,Organismo Descentralizado
+224,225.0,Ministerio de Energía,Comisión Chilena de Energía Nuclear,CCHEN,Organismo Descentralizado
+225,226.0,Ministerio de Energía,Comisión Nacional de Energía,CNE,Organismo Descentralizado
+226,227.0,Ministerio de Energía,Empresa Nacional del Petróleo,ENAP,Empresa Pública Creada por Ley
+227,228.0,Ministerio de Bienes Nacionales,Secretarías Regionales Ministeriales,,Organismo Desconcentrado Territorialmente
+228,229.0,Ministerio de Bienes Nacionales,Subsecretaría,,Organismo Centralizado
+229,230.0,Banco Central,Banco Central,,
