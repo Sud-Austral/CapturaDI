@@ -1,0 +1,15 @@
+,id,tema,descripcion,observaciones
+0,1.0,Agricultura,,Considera Ganadería
+1,3.0,Educación,,
+2,4.0,Energia,Temas sobre energia,
+3,5.0,Salud Humana,,
+4,6.0,Transporte,,
+5,7.0,Infraestructura,,
+6,8.0,Servicios Básicos,,
+7,9.0,Pesca,,
+8,10.0,Ambiente,,
+9,11.0,Uso de Suelo,"Caracterización del uso de suelo sujeto al criterio de diferentes temáticas (ejemplo, vegetación, agricultura, protección)",
+10,12.0,Ecosistemas,,
+11,13.0,Clima,Detalle de variables climáticas ,
+12,14.0,Minería,,
+13,15.0,Economía,,
